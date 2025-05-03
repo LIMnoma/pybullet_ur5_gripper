@@ -9,8 +9,8 @@
       <geometry>
         <mesh filename="../meshes/ur5e/visual/base.dae"/>
       </geometry>
-      <material name="LightGrey">
-        <color rgba="0.7 0.7 0.7 1.0"/>
+      <material name="red">
+        <color rgba="255 0 0 0.5"/>
       </material>
     </visual>
     <collision>
@@ -37,8 +37,8 @@
       <geometry>
         <mesh filename="../meshes/ur5e/visual/shoulder.dae"/>
       </geometry>
-      <material name="LightGrey">
-        <color rgba="0.7 0.7 0.7 1.0"/>
+      <material name="Blue">
+        <color rgba="39 41 245 0.8"/>
       </material>
     </visual>
     <collision>
@@ -65,8 +65,8 @@
       <geometry>
         <mesh filename="../meshes/ur5e/visual/upperarm.dae"/>
       </geometry>
-      <material name="LightGrey">
-        <color rgba="0.7 0.7 0.7 1.0"/>
+      <material name="green">
+        <color rgba="39 245 42 0.8"/>
       </material>
     </visual>
     <collision>
@@ -93,8 +93,8 @@
       <geometry>
         <mesh filename="../meshes/ur5e/visual/forearm.dae"/>
       </geometry>
-      <material name="LightGrey">
-        <color rgba="0.7 0.7 0.7 1.0"/>
+      <material name="black">
+        <color rgba="8 8 9 1"/>
       </material>
     </visual>
     <collision>
@@ -121,8 +121,8 @@
       <geometry>
         <mesh filename="../meshes/ur5e/visual/wrist1.dae"/>
       </geometry>
-      <material name="LightGrey">
-        <color rgba="0.7 0.7 0.7 1.0"/>
+      <material name="Tiel">
+        <color rgba="71 230 219 0.42"/>
       </material>
     </visual>
     <collision>
@@ -149,8 +149,8 @@
       <geometry>
         <mesh filename="../meshes/ur5e/visual/wrist2.dae"/>
       </geometry>
-      <material name="LightGrey">
-        <color rgba="0.7 0.7 0.7 1.0"/>
+      <material name="pink">
+        <color rgba="230 71 225 0.42"/>
       </material>
     </visual>
     <collision>
@@ -177,8 +177,8 @@
       <geometry>
         <mesh filename="../meshes/ur5e/visual/wrist3.dae"/>
       </geometry>
-      <material name="LightGrey">
-        <color rgba="0.7 0.7 0.7 1.0"/>
+      <material name="orange">
+        <color rgba="245 144 7 0.42"/>
       </material>
     </visual>
     <collision>
